@@ -1,6 +1,6 @@
 # Voting App
 
-This is a voting application built with React, Tailwind CSS, and Supabase. The app allows users to sign in with their school Microsoft account and vote for their preffered option. It can quite easily be changed, but no support is provided. This repostory is mainly used to provide transparency! This is not fully production ready its just the code that is essential. the DB config or anything is not included!
+This is a voting application built with React, Tailwind CSS, and Supabase. The app allows users to sign in with their school Microsoft account and vote for their preffered option. It can quite easily be changed, but no support is provided. This repostory is mainly used to provide transparency! This is not fully production ready its just the code that is essential, not the instructions to build or anything config, since that varies!
 
 ## ENV
 ```sh
